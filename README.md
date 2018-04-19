@@ -13,6 +13,13 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/overtrue/laravel-payment">laravel-payment</a> Omnipay ServiceProvider for Laravel.
     * <a target="_blank" href="https://github.com/overtrue/laravel-filesystem-qiniu">laravel-filesystem-qiniu</a> A Qiniu Storage filesystem for Laravel.
     * <a target="_blank" href="https://github.com/overtrue/laravel-pinyin">laravel-pinyin</a> Chinese to Pinyin translator for Laravel 5 / Lumen.
+    * <a target="_blank" href="https://github.com/overtrue/laravel-youzan">laravel-youzan</a> Youzan wrapper for Laravel.
+    * <a target="_blank" href="https://github.com/overtrue/laravel-ueditor">laravel-ueditor</a> UEditor integration for Laravel.
+    * <a target="_blank" href="https://github.com/overtrue/laravel-lang">laravel-lang</a> 52 languages support for Laravel 5 application.
+    * <a target="_blank" href="https://github.com/overtrue/laravel-shopping-cart">laravel-shopping-cart</a> Shopping cart for Laravel Application.
+    * <a target="_blank" href="https://github.com/overtrue/laravel-query-logger">laravel-query-logger</a> A dev tool to log all queries for laravel application.
+    * <a target="_blank" href="https://github.com/overtrue/laravel-summernote">laravel-summernote</a> Summernote editor integration for Laravel 5.
+    * <a target="_blank" href="https://github.com/overtrue/laravel-emoji">laravel-emoji</a> This package assist you in getting started with emoji easily.
     * <a target="_blank" href="https://github.com/JellyBool/flysystem-upyun">flysystem-upyun</a> Laravel 又拍云文件存储，上传，删除。
     * <a target="_blank" href="https://github.com/JellyBool/simple-ueditor">simple-ueditor</a> Ueditor 的简化版
     * <a target="_blank" href="https://github.com/JellyBool/translug">translug</a> 中文的 url slug 支持
