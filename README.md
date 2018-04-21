@@ -17,6 +17,10 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/dingo/api">dingo/api</a> A RESTful API package for the Laravel and Lumen frameworks. 
     * <a target="_blank" href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel-5-Generators-Extended</a> Laravel-5-Generators-Extended 
     * <a target="_blank" href="https://github.com/cviebrock/eloquent-sluggable">eloquent-sluggable</a> Easy creation of slugs for your Eloquent models in Laravel
+    * <a target="_blank" href="https://github.com/yajra/laravel-datatables">laravel-datatables</a> jQuery DataTables API for Laravel 4|5
+    * <a target="_blank" href="https://github.com/webpatser/laravel-uuid">laravel-uuid</a> laravel-uuid
+    * <a target="_blank" href="https://github.com/Indatus/dispatcher">dispatcher</a> Dispatcher is a Laravel artisan command scheduling tool used to schedule artisan commands within your project so you don't need to touch your crontab when deploying.
+    * <a target="_blank" href="https://github.com/jenssegers/date">date</a> A library to help you work with dates in multiple languages, based on Carbon.
     * <a target="_blank" href="https://github.com/summerblue/laravel-package-top-100">laravel-package-top-100</a>
 
     * <a target="_blank" href="https://github.com/overtrue/flysystem-qiniu">flysystem-qiniu</a> Flysystem adapter for the Qiniu storage.
