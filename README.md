@@ -41,3 +41,4 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/JellyBool/flysystem-upyun">flysystem-upyun</a> Laravel 又拍云文件存储，上传，删除。
     * <a target="_blank" href="https://github.com/JellyBool/simple-ueditor">simple-ueditor</a> Ueditor 的简化版
     * <a target="_blank" href="https://github.com/JellyBool/translug">translug</a> 中文的 url slug 支持
+    * <a target="_blank" href="https://github.com/peinhu/AetherUpload-Laravel">AetherUpload-Laravel</a> Upload big files for Laravel
