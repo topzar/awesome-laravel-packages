@@ -42,3 +42,4 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/JellyBool/simple-ueditor">simple-ueditor</a> Ueditor 的简化版
     * <a target="_blank" href="https://github.com/JellyBool/translug">translug</a> 中文的 url slug 支持
     * <a target="_blank" href="https://github.com/peinhu/AetherUpload-Laravel">AetherUpload-Laravel</a> Upload big files for Laravel
+    * <a target="_blank" href="https://github.com/flc1125/laravel-middleware-cache-response">laravel-middleware-cache-response</a> Laravel中间件-Response缓存 
