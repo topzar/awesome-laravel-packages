@@ -44,3 +44,9 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/peinhu/AetherUpload-Laravel">AetherUpload-Laravel</a> Upload big files for Laravel
     * <a target="_blank" href="https://github.com/flc1125/laravel-middleware-cache-response">laravel-middleware-cache-response</a> Laravel中间件-Response缓存 
     * <a target="_blank" href="https://github.com/spatie/laravel-tail">laravel-tail</a> An artisan command to tail your application logs 
+    * <a target="_blank" href="https://github.com/Askedio/laravel-soft-cascade">laravel-soft-cascade</a> Cascade Delete & Restore when using Laravel SoftDeletes 
+    * <a target="_blank" href="https://github.com/GrahamCampbell/Laravel-Throttle">laravel-Throttle</a> A rate limiter for Laravel 5 
+    * <a target="_blank" href="https://github.com/Torann/laravel-geoip">laravel-geoip</a> Determine the geographical location of website visitors based on their IP addresses.  
+    * <a target="_blank" href="https://github.com/cybercog/laravel-ban">laravel-ban</a> Laravel Ban simplify blocking and banning Eloquent models.  
+    * <a target="_blank" href="https://github.com/cybercog/laravel-love">laravel-love</a> Rate Eloquent models with Likes and Dislikes.
+    * <a target="_blank" href="https://github.com/nahid/talk">laravel-talk</a> Talk is a Laravel 5 based realtime users messaging and chatting system
