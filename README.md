@@ -50,3 +50,5 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/cybercog/laravel-ban">laravel-ban</a> Laravel Ban simplify blocking and banning Eloquent models.  
     * <a target="_blank" href="https://github.com/cybercog/laravel-love">laravel-love</a> Rate Eloquent models with Likes and Dislikes.
     * <a target="_blank" href="https://github.com/nahid/talk">laravel-talk</a> Talk is a Laravel 5 based realtime users messaging and chatting system
+    * <a target="_blank" href="https://github.com/beyondcode/laravel-credentials">laravel-credentials</a> Add encrypted credentials to your Laravel production environment.
+    * <a target="_blank" href="https://github.com/beyondcode/laravel-confirm-email">laravel-confirm-email</a> Add email verification to your Laravel projects
