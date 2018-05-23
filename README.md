@@ -53,3 +53,4 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/beyondcode/laravel-credentials">laravel-credentials</a> Add encrypted credentials to your Laravel production environment.
     * <a target="_blank" href="https://github.com/beyondcode/laravel-confirm-email">laravel-confirm-email</a> Add email verification to your Laravel projects
     * <a target="_blank" href="https://github.com/cblink/region">laravel-region</a> laravel 中国省市区联动数据生成
+    * <a target="_blank" href="https://github.com/wowiwj/ding-notice">laravel-ding-notice</a> 钉钉推送机器人消息发送laravel扩展包
