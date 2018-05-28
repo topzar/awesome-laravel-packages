@@ -56,3 +56,6 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/wowiwj/ding-notice">laravel-ding-notice</a> 钉钉推送机器人消息发送laravel扩展包
     * <a target="_blank" href="https://github.com/swisnl/laravel-fulltext">laravel-fulltext</a> Fulltext indexing and searching for Laravel
     * <a target="_blank" href="https://github.com/swooletw/laravel-swoole">laravel-swoole</a> High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
+
+### Awesome Laravel
+   * <a target="_blank" href="https://github.com/slimkit/thinksns-plus">thinksns-plus</a>  一个强大的社交系统  
