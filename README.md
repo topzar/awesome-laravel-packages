@@ -59,3 +59,8 @@ Awesome laravel packages
 
 ### Awesome Laravel
    * <a target="_blank" href="https://github.com/slimkit/thinksns-plus">thinksns-plus</a>  一个强大的社交系统  
+
+### TODO
+   * <a href="https://github.com/yccphp/laravel-5-markdown-editor">yccphp/laravel-5-markdown-editor</a>
+   * <a href="https://github.com/GrahamCampbell/Laravel-Markdown">GrahamCampbell/Laravel-Markdown</a>
+   * <a href="https://github.com/andreasindal/laravel-markdown">andreasindal/Laravel-Markdown</a>
