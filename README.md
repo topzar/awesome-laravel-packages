@@ -64,3 +64,4 @@ Awesome laravel packages
    * <a href="https://github.com/yccphp/laravel-5-markdown-editor">yccphp/laravel-5-markdown-editor</a>
    * <a href="https://github.com/GrahamCampbell/Laravel-Markdown">GrahamCampbell/Laravel-Markdown</a>
    * <a href="https://github.com/andreasindal/laravel-markdown">andreasindal/Laravel-Markdown</a>
+   * <a href="https://github.com/sparksuite/simplemde-markdown-editor">simplemde-markdown-editor</a>
