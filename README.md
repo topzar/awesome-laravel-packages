@@ -59,6 +59,7 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/Xethron/migrations-generator">migrations-generator</a> Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 
 ### Awesome Laravel
+   * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
    * <a target="_blank" href="https://github.com/slimkit/thinksns-plus">thinksns-plus</a>  一个强大的社交系统  
 
 ### TODO
