@@ -58,6 +58,9 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/swooletw/laravel-swoole">laravel-swoole</a> High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
     * <a target="_blank" href="https://github.com/Xethron/migrations-generator">migrations-generator</a> Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
     * <a target="_blank" href="https://github.com/GeekGhc/adminLTE-for-laravel">adminLTE-for-laravel</a> AdminLTE backstage template for laravel 
+    * <a target="_blank" href="https://github.com/laracasts/Presenter">Presenter</a> Easy view presenters in your apps.
+    * <a target="_blank" href="https://github.com/spatie/laravel-backup">laravel-backup</a> A package to backup your Laravel app
+    * <a target="_blank" href="https://github.com/summerblue/administrator">administrator</a> a fork from Frozennode/Administrator
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
