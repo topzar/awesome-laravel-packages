@@ -3,6 +3,7 @@ Awesome laravel packages
 
 * Official packages
 * Other
+    * <a target="_blank" href="https://github.com/tlaverdure/laravel-echo-server">laravel-echo-server</a> Socket.io server for Laravel Echo
     * <a target="_blank" href="https://github.com/barryvdh/laravel-ide-helper">laravel-ide-helper</a> Laravel IDE Helper
     * <a target="_blank" href="https://github.com/barryvdh/laravel-debugbar">laravel-debugbar</a> Laravel Debugbar (Integrates PHP Debug Bar)
     * <a target="_blank" href="https://github.com/Intervention/image">Intervention-image</a> PHP Image Manipulation
