@@ -62,6 +62,7 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/laracasts/Presenter">Presenter</a> Easy view presenters in your apps.
     * <a target="_blank" href="https://github.com/spatie/laravel-backup">laravel-backup</a> A package to backup your Laravel app
     * <a target="_blank" href="https://github.com/summerblue/administrator">administrator</a> a fork from Frozennode/Administrator
+    * <a target="_blank" href="https://github.com/vinkla/laravel-hashids">laravel-hashids</a> A Hashids bridge for Laravel
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
