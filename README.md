@@ -63,6 +63,9 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/spatie/laravel-backup">laravel-backup</a> A package to backup your Laravel app
     * <a target="_blank" href="https://github.com/summerblue/administrator">administrator</a> a fork from Frozennode/Administrator
     * <a target="_blank" href="https://github.com/vinkla/laravel-hashids">laravel-hashids</a> A Hashids bridge for Laravel
+    * <a target="_blank" href="https://github.com/LaravelChen/myflash">myflash</a> Flash Message For Laravel5
+    * <a target="_blank" href="https://github.com/LaravelChen/Background-Template-For-Laravel5">Background-Template-For-Laravel5</a> Background-Template-For-Laravel5
+    * <a target="_blank" href="https://github.com/LaravelChen/laravel-editormd">laravel-editormd</a> Editor.md For Laravel5(支持七牛存储)
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
@@ -73,3 +76,4 @@ Awesome laravel packages
    * <a href="https://github.com/GrahamCampbell/Laravel-Markdown">GrahamCampbell/Laravel-Markdown</a>
    * <a href="https://github.com/andreasindal/laravel-markdown">andreasindal/Laravel-Markdown</a>
    * <a href="https://github.com/sparksuite/simplemde-markdown-editor">simplemde-markdown-editor</a>
+   * <a target="_blank" href="https://github.com/LaravelChen/laravel-editormd">laravel-editormd</a> Editor.md For Laravel5(支持七牛存储)
