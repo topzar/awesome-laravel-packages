@@ -69,6 +69,7 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/LaravelChen/laravel-editormd">laravel-editormd</a> Editor.md For Laravel5(支持七牛存储)
     * <a target="_blank" href="https://github.com/ARCANEDEV/LogViewer">LogViewer</a> Provides a log viewer for Laravel 5
     * <a target="_blank" href="https://github.com/jenssegers/laravel-mongodb">laravel-mongodb</a> A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+    * <a target="_blank" href="https://github.com/RachidLaasri/LaravelInstaller">LaravelInstaller</a> A web installer for Laravel
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
