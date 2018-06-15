@@ -67,6 +67,8 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/LaravelChen/myflash">myflash</a> Flash Message For Laravel5
     * <a target="_blank" href="https://github.com/LaravelChen/Background-Template-For-Laravel5">Background-Template-For-Laravel5</a> Background-Template-For-Laravel5
     * <a target="_blank" href="https://github.com/LaravelChen/laravel-editormd">laravel-editormd</a> Editor.md For Laravel5(支持七牛存储)
+    * <a target="_blank" href="https://github.com/ARCANEDEV/LogViewer">LogViewer</a> Provides a log viewer for Laravel 5
+    * <a target="_blank" href="https://github.com/jenssegers/laravel-mongodb">laravel-mongodb</a> A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
