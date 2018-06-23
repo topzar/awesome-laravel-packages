@@ -72,6 +72,7 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/RachidLaasri/LaravelInstaller">LaravelInstaller</a> A web installer for Laravel
     * <a target="_blank" href="https://github.com/the-control-group/voyager">voyager</a> Voyager - The Missing Laravel Admin
     * <a target="_blank" href="https://github.com/PHPJunior/laravel-video-chat">laravel-video-chat</a> Laravel Video Chat using Socket.IO and WebRTC
+    * <a target="_blank" href="https://github.com/dominator88/laravel-smart">laravel-smart</a> 
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
