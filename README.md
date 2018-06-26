@@ -3,6 +3,7 @@ Awesome laravel packages
 
 * Official packages
 * Other
+    * <a target="_blank" href="https://github.com/LaraDock/laradock">laradock</a> Docker PHP development environment.
     * <a target="_blank" href="https://github.com/z-song/laravel-admin">laravel-admin</a> laravel-admin
     * <a target="_blank" href="https://github.com/tlaverdure/laravel-echo-server">laravel-echo-server</a> Socket.io server for Laravel Echo
     * <a target="_blank" href="https://github.com/barryvdh/laravel-ide-helper">laravel-ide-helper</a> Laravel IDE Helper
