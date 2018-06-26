@@ -73,6 +73,8 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/the-control-group/voyager">voyager</a> Voyager - The Missing Laravel Admin
     * <a target="_blank" href="https://github.com/PHPJunior/laravel-video-chat">laravel-video-chat</a> Laravel Video Chat using Socket.IO and WebRTC
     * <a target="_blank" href="https://github.com/dominator88/laravel-smart">laravel-smart</a> 
+    * <a target="_blank" href="https://github.com/laravolt/avatar">laravolt/avatar</a> laravolt/avatar
+    * <a target="_blank" href="https://github.com/Maatwebsite/Laravel-Excel">Laravel-Excel</a> Laravel Flavoured PhpSpreadsheet
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
