@@ -78,6 +78,7 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/laravelnews/laravel-twbs4">laravel-twbs4</a> Laravel 5 frontend preset for Twitter Bootstrap 4
     * <a target="_blank" href="https://github.com/Brotzka/laravel-dotenv-editor">laravel-dotenv-editor</a> A Laravel package for editing the .env file dynamically.
     * <a target="_blank" href="https://github.com/viacreative/sudo-su">sudo-su</a> Laravel package to easily login as other users during development.
+    * <a target="_blank" href="https://github.com/laraedit/laraedit-docker">laraedit-docker</a> Dockerized version of Laravel Homestead
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
