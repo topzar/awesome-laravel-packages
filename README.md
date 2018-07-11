@@ -81,6 +81,7 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/viacreative/sudo-su">sudo-su</a> Laravel package to easily login as other users during development.
     * <a target="_blank" href="https://github.com/laraedit/laraedit-docker">laraedit-docker</a> Dockerized version of Laravel Homestead
     * <a target="_blank" href="https://github.com/huang-yi/rbac-laravel">rbac-laravel</a> rbac-laravel
+    * <a target="_blank" href="https://github.com/beyondcode/laravel-dump-server">laravel-dump-server</a> Bring Symfony's Var-Dump Server to Laravel
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
