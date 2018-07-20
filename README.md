@@ -83,6 +83,7 @@ Awesome laravel packages
     * <a target="_blank" href="https://github.com/beyondcode/laravel-dump-server">laravel-dump-server</a> Bring Symfony's Var-Dump Server to Laravel
     * <a target="_blank" href="https://github.com/snower/forsun-laravel">forsun-laravel</a> 高性能的定时调度服务。
     * <a target="_blank" href="https://github.com/cblink/laravel-sso">laravel-sso</a> laravel-sso。
+    * <a target="_blank" href="https://github.com/spatie/laravel-query-builder">laravel-query-builder</a> Easily build Eloquent queries from API requests.
 
 ### Awesome Laravel
    * <a target="_blank" href="https://laravel.csie.io/">laravel.csie.io</a>  Top Laravel Packages 
